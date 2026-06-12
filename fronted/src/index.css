@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+    min-height: 100vh;
+}
+
+input,
+textarea {
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+    margin: 5px 0;
+    width: 100%;
+}
+
+button {
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
